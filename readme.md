@@ -1,5 +1,10 @@
 # # Jenkins Complete CI/CD Pipeline Demonstration # 
 
+--privileged=true have to use when run jenkin in container 
+
+then inside container docker demon will work
+
+
 
 ----------
 
